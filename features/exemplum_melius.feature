@@ -1,6 +1,6 @@
 # Created by larry at 3/20/24
-Feature: # Enter feature name here
-  # Enter feature description here
+Feature: Some feature
+  As a software engineer, I want to lorem ipsum, so that I can dolor sit
 
-  Scenario: # Enter scenario name here
+  Scenario: Some scenario
     # Enter steps here
